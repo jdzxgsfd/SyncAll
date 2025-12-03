@@ -1,3 +1,3 @@
-jgm
-pandoc
-Sync.jgm.pandoc
+Bush2021
+chrome_installer
+Sync.Bush2021.chrome_installer
