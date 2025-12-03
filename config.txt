@@ -1,3 +1,3 @@
-pawelsalawa
-sqlitestudio
-Sync.pawelsalawa.sqlitestudio
+jgm
+pandoc
+Sync.jgm.pandoc
