@@ -18,7 +18,7 @@ jobs:
     runs-on: windows-latest  # 必须使用 Windows 环境运行 .NET Framework 程序
     env:
       # 定义最大执行次数（避免无限循环）
-      MAX_RUNS: 160
+      MAX_RUNS: 1
       # 手动指定实际的 Workflow 文件名（关键修复！）
       WORKFLOW_FILE_NAME: "main.yml"
     permissions:
