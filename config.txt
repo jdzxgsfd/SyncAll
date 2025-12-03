@@ -1,3 +1,3 @@
-Icsharpcode
-ILSpy
-Sync.Icsharpcode.ILSpy
+pawelsalawa
+sqlitestudio
+Sync.pawelsalawa.sqlitestudio
