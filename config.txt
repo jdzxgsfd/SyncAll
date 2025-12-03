@@ -1,0 +1,3 @@
+notepad-plus-plus
+notepad-plus-plus
+Sync.notepad-plus-plus.notepad-plus-plus
