@@ -1,3 +1,3 @@
-Bush2021
-edge_installer
-Sync.Bush2021.edgeInstaller
+balena-io
+etcher
+Sync.balenaIo.etcher
