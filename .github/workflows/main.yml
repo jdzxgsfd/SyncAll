@@ -367,7 +367,7 @@ jobs:
             }
             
             # 校验非法字符
-            $invalidChars = @('<', '>', ':', '"', '/', '\', '|', '?', '*', ' ')
+            $invalidChars = @('<', '>', ':', '"', '\', '|', '?', '*', ' ')
             $tagHasInvalid = $false
             foreach ($char in $invalidChars) {
               if ($tag.Contains($char)) {
